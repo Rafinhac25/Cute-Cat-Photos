@@ -2,7 +2,6 @@
 
 <html lang="en">
   <head>
-   <style>
     <title>Meow Therapy</title>
   </head>
   <body>
