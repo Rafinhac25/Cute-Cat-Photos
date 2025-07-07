@@ -3,11 +3,12 @@
 <html lang="en">
   <head>
     
-    <title>CatPhotoApp</title>
+    <title>Meow Therapy</title>
   </head>
   <body>
     <main>
-      <h1>CatPhotoApp</h1>
+      <h1>Meow Therapy 🐱</h1>
+      <p>Welcome to Meow Therapy – the ultimate place to unwind when life gets a little too loud. Whether you're stressed, tired, or just need a smile, this cozy corner of the internet is packed with the fluffiest, silliest, and most heart-melting cats to lift your spirits. Take a deep breath, scroll slowly, and let the purrs do the healing. 🐾💕</p>
       <section>
         <h2>Cat Photos</h2>
         <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
