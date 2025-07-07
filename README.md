@@ -3,23 +3,6 @@
 <html lang="en">
   <head>
    <style>
-  body {
-    background-color: #fff0f5;
-    font-family: Arial, sans-serif;
-    color: #333;
-    padding: 0 20px;
-  }
-  .gallery {
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-  }
-  .gallery img {
-    width: 30%;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  }
-</style> 
     <title>Meow Therapy</title>
   </head>
   <body>
