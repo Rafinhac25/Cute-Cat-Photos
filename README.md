@@ -13,8 +13,7 @@
         <div class="gallery">
           <img src="https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_1280.jpg" alt="Fluffy cat 1">
           <img src="https://cdn.pixabay.com/photo/2015/01/31/12/36/cat-618470_1280.jpg" alt="Kitten with green eyes">
-          
-          <img src="https://cdn.pixabay.com/photo/2017/01/06/19/15/cat-1953523_1280.jpg" alt="Sleepy cat">
+          <img src="https://cdn.pixabay.com/photo/2018/01/25/16/07/cute-3106473_1280.jpg" alt="Beautiful black kitten">
         </div>
         <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
         <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
