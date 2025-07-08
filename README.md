@@ -6,7 +6,7 @@
     <title>Meow Therapy</title>
     <style>
       h1 {
-      text-align: centre
+      text-align: center;
         }
     </style>
   </head>
